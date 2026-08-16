@@ -32,9 +32,8 @@ I learned Data Analytics through the CampusX Data Science Mentorship Program (20
 | 02 | Pandas | ✅ Complete |
 | 03 | Numpy | ✅ Complete |
 | 04 | Data Visualization (Matplotlib & Seaborn) | ✅ Complete |
-| 05 | Statistics | 🔄 In Progress |
-| 06 | SQL | 🔄 In Progress |
-| 07 | EDA & Data Cleaning | 🔄 In Progress |
+| 05 | SQL | ✅ Complete |
+| 06 | EDA & Data Cleaning | ✅ Complete |
 
 ---
 
